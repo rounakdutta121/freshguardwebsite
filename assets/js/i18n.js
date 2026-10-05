@@ -319,6 +319,7 @@
     /* Mold removal sections on the homepage */
     'FreshGuard technician measuring moisture behind furniture before mold removal': 'FreshGuard-technicus meet vocht achter meubels vóór schimmelverwijdering',
     'Inspection comes first': 'Eerst inspectie',
+    'Careful in-home treatment': 'Zorgvuldige behandeling aan huis',
     'For homeowners': 'Voor huiseigenaren',
     'Mold Removal from Netherlands Homes': 'Schimmelverwijdering in Nederlandse woningen',
     'A damp corner, musty smell, or dark patch can quickly become a household headache. FreshGuard helps homeowners tackle these concerns with practical Netherlands mold removal solutions.': 'Een vochtige hoek, muffe geur of donkere plek kan snel een flinke zorg worden. FreshGuard helpt huiseigenaren dit praktisch aan te pakken met schimmelverwijdering in heel Nederland.',
